@@ -8,7 +8,7 @@ file format in lrc format
 
 - need to add the/a downloader
 - you have to scroll up in the command prompt for it to not flicker, and even then the cursor flickers
-
+- please add a transpose mode
 
 ## lrc
 

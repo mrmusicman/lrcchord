@@ -8,6 +8,7 @@ parser.add_argument('id', metavar='N', type=str,
 
 args = parser.parse_args()
 
+args.id = args.id.replace("https://www.youtube.com/watch?v=", "")
 
 import youtube_dl
 
